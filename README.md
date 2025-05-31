@@ -2,7 +2,7 @@
 
 https://web.archive.org/web/20201219202517/https://cs61a.org/
 
-#教材
+教材
 中：
 https://composingprograms.netlify.app/1/1
 英：
